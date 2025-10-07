@@ -3,6 +3,8 @@
 This repository contains a complete **step-by-step guide** for installing and configuring **EGSnrc (Electron Gamma Shower)** on **Windows 10/11**, using **MSYS2 (MinGW-w64)** and **ActiveTcl**.
 
 ---
+<!-- Google site verification -->
+<meta name="google-site-verification" content="ABCDEFG123456789..." />
 
 ## 📘 Installation Guide (PDF)
 
