@@ -4,7 +4,7 @@ This repository contains a complete **step-by-step guide** for installing and co
 
 ---
 <!-- Google site verification -->
-<meta name="google-site-verification" content="ABCDEFG123456789..." />
+<meta name="google-site-verification" content="U_I6BcguTfdt9qebZgfTOgD8MCuhnlARtH0ngkzDRJY" />
 
 ## 📘 Installation Guide (PDF)
 
