@@ -48,5 +48,3 @@ Full Stack Developer
 
 This guide is provided for educational and research use.  
 You may share or modify it with proper attribution.
-
-<meta name="google-site-verification" content="U_I6BcguTfdt9qebZgfTOgD8MCuhnlARtH0ngkzDRJY" />
